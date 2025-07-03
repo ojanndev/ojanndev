@@ -22,13 +22,16 @@
 
 ## 🧠 Tentang Saya
 
-> 🔥 **Muhammad Fauzan Nasyiruddin**  
-> 🧑‍💻 Fullstack Developer (Laravel + React)  
-> 🎥 AI Content Creator — Edukasi Tech & Branding  
-> 🌏 Jombang | Indonesia  
-> ✉️ Kontak: ojanndev@gmail.com
+<div align="left" style="background-color:#0d1117; padding: 20px; border-radius: 12px;">
 
----
+🔥 <strong style="color:#00BFFF;">Muhammad Fauzan Nasyiruddin</strong>  
+👨‍💻 <span style="color:#C9D1D9;">Fullstack Developer</span> (Laravel + React)  
+🎥 <span style="color:#C9D1D9;">AI Content Creator</span> — Edukasi Tech & Branding  
+🌍 <span style="color:#C9D1D9;">Jombang, Indonesia</span>  
+📩 <span style="color:#58A6FF;">ojanndev@gmail.com</span>
+
+</div>
+
 
 ## 🚀 Tech Stack
 
