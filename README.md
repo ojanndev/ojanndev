@@ -4,57 +4,60 @@ I'm a **Fullstack Web Developer** and **Content Creator** passionate about build
 
 ---
 
-### 👨‍💻 About Me
-
-* 🔭 Currently working on: [TebasLahan.id](https://tebaslahan.id/) – a real estate e-commerce web app
-* 💼 Stack: HTML, CSS, JavaScript, Laravel, PHP, MySQL, React, Firebase
-* 🌱 Learning: Filament Laravel, REST API integration, and advanced React
-* 🎯 Passionate about: clean UI, maintainable backend, and digital storytelling
-* 📸 Content Creator: Sharing tips & tutorials on AI, coding, and productivity
-
----
-
-### 🚀 Tech Stack
-
-* **Frontend**: HTML, CSS, Bootstrap, JavaScript, React
-* **Backend**: PHP, Laravel, REST API, Filament Laravel
-* **Database**: MySQL, Firestore
-* **Tools**: Git, VS Code, Figma, Firebase, Postman
-
----
-
-### 📂 Projects
-
-* 🏡 [TebasLahan.id](https://tebaslahan.id) — Property e-commerce site built with Laravel & Blade
-* 📸 Portfolio Website — Designed to showcase my projects, coming soon...
-
----
-
-<h1 align="center">🎮 Welcome to My Dev World! 🕹️</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Hi+I'm+Fauzan!;Fullstack+Developer+%26+Content+Creator;Laravel+%7C+React+%7C+Firebase+%7C+AI+Tools" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Web+Developer;Frontend+%F0%9F%96%A5%EF%B8%8F+Backend+%F0%9F%94%AE;AI+Content+Creator&center=true&width=500&height=45">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coder animation" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-```yaml
-name: Muhammad Fauzan Nasyiruddin
-role: Fullstack Web Developer & Content Creator
-tech: HTML, CSS, JS, Laravel, React, Firebase
-focus: Building real-world apps, teaching AI tools & digital branding
-location: Jombang, Indonesia
+## 🧠 Tentang Saya
 
-
-### 📫 Let's Connect
-
-* LinkedIn: [linkedin.com/in/fauzannasyiruddin](https://linkedin.com/in/fauzannasyiruddin)
-* Instagram: [@ojannn.ae](https://instagram.com/ojannn.ae)
-* Email: [fauzan.nasyiruddin@gmail.com](mailto:fauzan.nasyiruddin@gmail.com)
+> 🔥 **Muhammad Fauzan Nasyiruddin**  
+> 🧑‍💻 Fullstack Developer (Laravel + React)  
+> 🎥 AI Content Creator — Edukasi Tech & Branding  
+> 🌏 Jombang | Indonesia  
+> ✉️ Kontak: ojanndev@gmail.com
 
 ---
 
-> "Code with purpose, design with empathy, and always keep learning."
+## 🚀 Tech Stack
 
-Thanks for visiting! 🙌
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,firebase,mysql,nodejs,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Statistik
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojannn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ojannn&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojannn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🎯 Project yang Sedang Dikerjakan
+
+- 🔨 **Tebaslahan.id** - Web e-commerce properti (Laravel Blade)
+- 🚀 Portofolio dengan Firebase + React
+- 🎬 Konten edukasi AI dan coding di TikTok & IG
+
+---
+
+## 🕹️ Level Up Journey
+
+```yaml
+🎓 PeTIK II Jombang - Web Dev Scholarship
+📦 Laravel CRUD + Admin Panel (Filament)
+⚙️ Frontend Animations with Tailwind + GSAP
+📱 React + Firebase + AI API (soon)
+
