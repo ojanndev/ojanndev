@@ -29,14 +29,20 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <!-- Skill icons dari skillicons.dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,firebase,mysql,nodejs,github,vscode" />
+  <!-- Icon dari skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,mysql,nodejs,github,vscode" />
 
-  <!-- Tambahan logo CapCut, Canva, Figma -->
-  <img src="https://seeklogo.com/images/C/capcut-logo-4E55B8E2D9-seeklogo.com.png" height="48" style="margin: 0 5px;" />
-  <img src="https://seeklogo.com/images/C/canva-logo-B4BE25729A-seeklogo.com.png" height="48" style="margin: 0 5px;" />
+  <!-- Logo tambahan -->
+  <!-- Figma (dari Wikipedia) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="48" style="margin: 0 5px;" />
+
+  <!-- Canva (dari pngimg.com) -->
+  <img src="https://pngimg.com/uploads/canva/canva_PNG21.png" height="48" style="margin: 0 5px;" />
+
+  <!-- CapCut (dari Wikimedia Commons) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CapCut_Logo.svg/512px-CapCut_Logo.svg.png" height="48" style="margin: 0 5px;" />
 </p>
+
 
 
 
