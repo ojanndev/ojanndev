@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Muhammad Fauzan</span></h1>
+<h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Muhammad Fauzan Nasyruddin</span></h1>
 <h3 align="center">🚀 Fullstack Developer | 🎥 Content Creator | 💡 Problem Solver</h3>
 
 <p align="center">
