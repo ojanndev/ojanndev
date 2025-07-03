@@ -34,12 +34,18 @@ I'm a **Fullstack Web Developer** and **Content Creator** passionate about build
 
 ## 📊 GitHub Statistik Proyek Aktif: `tebaslahan`
 
-## 📦 Proyek Aktif: App Inventory
+## 🚀 Proyek Aktif Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=app-inventory&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ojanndev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=app-inventory&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=Green-Wakaf&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=web-promptin&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=frontend-ecommerce&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojannn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
