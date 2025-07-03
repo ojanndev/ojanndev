@@ -51,6 +51,24 @@ I'm a **Fullstack Web Developer** and **Content Creator** passionate about build
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojannn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+## 📈 Statistik Aktivitas GitHub
+
+<p align="center">
+  <!-- Total Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=ojanndev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojanndev&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Language Usage -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojanndev&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+
+  <!-- Contribution Graph (Activity chart) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ojanndev&theme=tokyo-night&hide_border=true" width="96%" />
+</p>
+
 ---
 
 ## 🎯 Project yang Sedang Dikerjakan
