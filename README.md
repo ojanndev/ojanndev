@@ -1,8 +1,12 @@
-## 👋 Hi there, I'm Muhammad Fauzan Nasyiruddin
+<h1 align="center">Hi there 👋, I'm <span style="color:#1DA1F2">Muhammad Fauzan</span></h1>
+<h3 align="center">🚀 Fullstack Developer | 🎥 Content Creator | 💡 Problem Solver</h3>
 
 <p align="center">
-  <img src="https://github.com/ojanndev/ojanndev/blob/main/assets/banner.png" alt="Hello I'm Muhammad Fauzan" width="100%" />
+  <a href="https://github.com/ojanndev" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Fullstack+Web+Developer;React+%7C+Laravel+%7C+Tailwind+%7C+Firebase;Let's+build+something+awesome!" alt="Typing SVG" />
+  </a>
 </p>
+
 
 ---
 
