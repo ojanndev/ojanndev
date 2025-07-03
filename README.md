@@ -32,10 +32,10 @@ I'm a **Fullstack Web Developer** and **Content Creator** passionate about build
 
 ---
 
-## 📊 GitHub Statistik
+## 📊 GitHub Statistik Proyek Aktif: `tebaslahan`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojannn&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojannn&repo=tebaslahan&theme=tokyonight&show_owner=true&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ojannn&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
