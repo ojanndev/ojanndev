@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Muhammad Fauzan Nasyiruddin
 
-I'm a **Fullstack Web Developer** and **Content Creator** passionate about building impactful digital experiences.
+<p align="center">
+  <img src="https://github.com/ojanndev/ojanndev/blob/main/assets/banner.png" alt="Hello I'm Muhammad Fauzan" width="100%" />
+</p>
 
 ---
 
