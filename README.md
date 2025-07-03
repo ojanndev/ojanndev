@@ -47,10 +47,6 @@ I'm a **Fullstack Web Developer** and **Content Creator** passionate about build
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojannn&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
 ## 📈 Statistik Aktivitas GitHub
 
 <p align="center">
