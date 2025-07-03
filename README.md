@@ -29,7 +29,7 @@
 ## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,firebase,mysql,nodejs,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,laravel,mysql,nodejs,github,vscode,canva" />
 </p>
 
 ---
