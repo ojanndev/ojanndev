@@ -34,9 +34,7 @@
 
 ---
 
-## 📊 GitHub Statistik Proyek Aktif: `tebaslahan`
-
-## 🚀 Proyek Aktif Saya
+## 📊 GitHub Statistik Proyek
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=app-inventory&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
