@@ -36,12 +36,6 @@
   <!-- Figma (dari Wikipedia) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="48" style="margin: 0 5px;" />
 
-  <!-- Canva (dari pngimg.com) -->
-  <img src="https://pngimg.com/uploads/canva/canva_PNG21.png" height="48" style="margin: 0 5px;" />
-
-  <!-- CapCut (dari Wikimedia Commons) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/CapCut_Logo.svg/512px-CapCut_Logo.svg.png" height="48" style="margin: 0 5px;" />
-</p>
 
 
 
