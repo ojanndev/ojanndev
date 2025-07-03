@@ -7,13 +7,6 @@
   </a>
 </p>
 
-
----
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFBF&center=true&vCenter=true&width=600&lines=Hi+I'm+Fauzan!;Fullstack+Developer+%26+Content+Creator;Laravel+%7C+React+%7C+Firebase+%7C+AI+Tools" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coder animation" />
 </p>
