@@ -51,7 +51,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=web-promptin&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ojanndev&repo=frontend-ecommerce&theme=tokyonight&show_owner=true&hide_border=true" width="45%" />
 </p>
 
 
