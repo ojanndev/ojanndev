@@ -34,7 +34,6 @@
 
   <!-- Logo tambahan -->
   <!-- Figma (dari Wikipedia) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" height="48" style="margin: 0 5px;" />
 
 
 
