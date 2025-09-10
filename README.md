@@ -18,7 +18,7 @@
 - 💻 Specialized in **Laravel & React** ecosystem
 - 🎥 **AI Content Creator** focusing on Tech Education & Developer Branding
 - 🌍 Based in **Jombang, Indonesia**
-- 📧 Reach me at **fauzannashiruddin@gmail.com**
+- 📧 Reach me at **ojanndev@gmail.com**
 - 🎯 Currently learning **AI Integration** and **Advanced React Patterns**
 
 ---
